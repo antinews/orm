@@ -1,4 +1,6 @@
 ﻿using Antinew.ORM.Framework;
+using Antinew.ORM.Framework.Common;
+using Antinew.ORM.Framework.Configuration;
 using Antinew.ORM.Framework.SqlFilters;
 using Antinew.ORM.Framework.SqlMapping;
 using Antinew.ORM.Model.DbModel;
@@ -17,7 +19,8 @@ namespace Antinew.ORM.DAL
             //string sql_columns = string.Join(",", type.GetProperties().Select(p => $"[{p.GetMappingName()}]"));
             //string sql_str = $"SELECT {sql_columns} FROM [{type.GetMappingName()}] WHERE ID = {id}";
             string sql_str = $"{SqlBuilder<T>.GetFindSql()}{id}";
-            using (SqlConnection conn = new SqlConnection(Configurations.SqlConnectionString))
+            string connection_str = ConnectionStringProvider.GetConnectionString(DBOperation.Read, SlaveStrategy.Polling);
+            using (SqlConnection conn = new SqlConnection(connection_str))
             {
                 SqlCommand cmd = new SqlCommand(sql_str, conn);
                 conn.Open();
@@ -43,7 +46,8 @@ namespace Antinew.ORM.DAL
 
             var params_array = type.GetProperties()
                 .Select(p => new SqlParameter($"@{p.GetMappingName()}", p.GetValue(t) ?? DBNull.Value)).ToArray();
-            using (SqlConnection conn = new SqlConnection(Configurations.SqlConnectionString))
+            string connection_str = ConnectionStringProvider.GetConnectionString(DBOperation.Write);
+            using (SqlConnection conn = new SqlConnection(connection_str))
             {
                 SqlCommand cmd = new SqlCommand(sql_str, conn);
                 cmd.Parameters.AddRange(params_array);

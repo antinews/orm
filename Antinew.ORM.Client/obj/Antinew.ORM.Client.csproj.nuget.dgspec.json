@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Antinew\\Architect\\Antinew.ORM.Client\\Antinew.ORM.Client.csproj": {}
+    "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Client\\Antinew.ORM.Client.csproj": {}
   },
   "projects": {
-    "C:\\Antinew\\Architect\\Antinew.ORM.Client\\Antinew.ORM.Client.csproj": {
+    "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Client\\Antinew.ORM.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Antinew\\Architect\\Antinew.ORM.Client\\Antinew.ORM.Client.csproj",
+        "projectUniqueName": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Client\\Antinew.ORM.Client.csproj",
         "projectName": "Antinew.ORM.Client",
-        "projectPath": "C:\\Antinew\\Architect\\Antinew.ORM.Client\\Antinew.ORM.Client.csproj",
+        "projectPath": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Client\\Antinew.ORM.Client.csproj",
         "packagesPath": "C:\\Users\\23577\\.nuget\\packages\\",
-        "outputPath": "C:\\Antinew\\Architect\\Antinew.ORM.Client\\obj\\",
+        "outputPath": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\23577\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Antinew\\Architect\\Antinew.ORM.DAL\\Antinew.ORM.DAL.csproj": {
-                "projectPath": "C:\\Antinew\\Architect\\Antinew.ORM.DAL\\Antinew.ORM.DAL.csproj"
+              "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.DAL\\Antinew.ORM.DAL.csproj": {
+                "projectPath": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.DAL\\Antinew.ORM.DAL.csproj"
               },
-              "C:\\Antinew\\Architect\\Antinew.ORM.Models\\Antinew.ORM.Model.csproj": {
-                "projectPath": "C:\\Antinew\\Architect\\Antinew.ORM.Models\\Antinew.ORM.Model.csproj"
+              "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Models\\Antinew.ORM.Model.csproj": {
+                "projectPath": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Models\\Antinew.ORM.Model.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Antinew\\Architect\\Antinew.ORM.DAL\\Antinew.ORM.DAL.csproj": {
+    "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.DAL\\Antinew.ORM.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Antinew\\Architect\\Antinew.ORM.DAL\\Antinew.ORM.DAL.csproj",
+        "projectUniqueName": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.DAL\\Antinew.ORM.DAL.csproj",
         "projectName": "Antinew.ORM.DAL",
-        "projectPath": "C:\\Antinew\\Architect\\Antinew.ORM.DAL\\Antinew.ORM.DAL.csproj",
+        "projectPath": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.DAL\\Antinew.ORM.DAL.csproj",
         "packagesPath": "C:\\Users\\23577\\.nuget\\packages\\",
-        "outputPath": "C:\\Antinew\\Architect\\Antinew.ORM.DAL\\obj\\",
+        "outputPath": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\23577\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -86,11 +86,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Antinew\\Architect\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj": {
-                "projectPath": "C:\\Antinew\\Architect\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj"
+              "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj": {
+                "projectPath": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj"
               },
-              "C:\\Antinew\\Architect\\Antinew.ORM.Models\\Antinew.ORM.Model.csproj": {
-                "projectPath": "C:\\Antinew\\Architect\\Antinew.ORM.Models\\Antinew.ORM.Model.csproj"
+              "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Models\\Antinew.ORM.Model.csproj": {
+                "projectPath": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Models\\Antinew.ORM.Model.csproj"
               }
             }
           }
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Antinew\\Architect\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj": {
+    "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Antinew\\Architect\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj",
+        "projectUniqueName": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj",
         "projectName": "Antinew.ORM.Framework",
-        "projectPath": "C:\\Antinew\\Architect\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj",
+        "projectPath": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj",
         "packagesPath": "C:\\Users\\23577\\.nuget\\packages\\",
-        "outputPath": "C:\\Antinew\\Architect\\Antinew.ORM.Framework\\obj\\",
+        "outputPath": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Framework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\23577\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -194,14 +194,14 @@
         }
       }
     },
-    "C:\\Antinew\\Architect\\Antinew.ORM.Models\\Antinew.ORM.Model.csproj": {
+    "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Models\\Antinew.ORM.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Antinew\\Architect\\Antinew.ORM.Models\\Antinew.ORM.Model.csproj",
+        "projectUniqueName": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Models\\Antinew.ORM.Model.csproj",
         "projectName": "Antinew.ORM.Model",
-        "projectPath": "C:\\Antinew\\Architect\\Antinew.ORM.Models\\Antinew.ORM.Model.csproj",
+        "projectPath": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Models\\Antinew.ORM.Model.csproj",
         "packagesPath": "C:\\Users\\23577\\.nuget\\packages\\",
-        "outputPath": "C:\\Antinew\\Architect\\Antinew.ORM.Models\\obj\\",
+        "outputPath": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\23577\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -217,8 +217,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Antinew\\Architect\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj": {
-                "projectPath": "C:\\Antinew\\Architect\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj"
+              "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj": {
+                "projectPath": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj"
               }
             }
           }

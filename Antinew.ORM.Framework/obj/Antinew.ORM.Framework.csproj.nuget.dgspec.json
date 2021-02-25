@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Antinew\\Architect\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj": {}
+    "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj": {}
   },
   "projects": {
-    "C:\\Antinew\\Architect\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj": {
+    "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Antinew\\Architect\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj",
+        "projectUniqueName": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj",
         "projectName": "Antinew.ORM.Framework",
-        "projectPath": "C:\\Antinew\\Architect\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj",
+        "projectPath": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Framework\\Antinew.ORM.Framework.csproj",
         "packagesPath": "C:\\Users\\23577\\.nuget\\packages\\",
-        "outputPath": "C:\\Antinew\\Architect\\Antinew.ORM.Framework\\obj\\",
+        "outputPath": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Framework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\23577\\AppData\\Roaming\\NuGet\\NuGet.Config",

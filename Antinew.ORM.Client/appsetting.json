@@ -1,3 +1,10 @@
 {
-  "ConnectionString": "Data Source=.;Database=DncZeus;Integrated Security=True;",
+  "ConnectionStrings": {
+    "Master": "Data Source=.;Database=ORMExplore;Integrated Security=True;",
+    "Slaves": [
+      "Data Source=.;Database=ORMExploreSlave1;Integrated Security=True;",
+      "Data Source=.;Database=ORMExploreSlave2;Integrated Security=True;",
+      "Data Source=.;Database=ORMExploreSlave3;Integrated Security=True;"
+    ]
+  }
 }
