@@ -1,0 +1,14 @@
+C:\Antinew\Architect\Antinew.ORM.DAL\bin\Debug\netcoreapp3.1\Antinew.ORM.DAL.deps.json
+C:\Antinew\Architect\Antinew.ORM.DAL\bin\Debug\netcoreapp3.1\Antinew.ORM.DAL.dll
+C:\Antinew\Architect\Antinew.ORM.DAL\bin\Debug\netcoreapp3.1\Antinew.ORM.DAL.pdb
+C:\Antinew\Architect\Antinew.ORM.DAL\bin\Debug\netcoreapp3.1\Antinew.ORM.Framework.dll
+C:\Antinew\Architect\Antinew.ORM.DAL\bin\Debug\netcoreapp3.1\Antinew.ORM.Framework.pdb
+C:\Antinew\Architect\Antinew.ORM.DAL\obj\Debug\netcoreapp3.1\Antinew.ORM.DAL.csprojAssemblyReference.cache
+C:\Antinew\Architect\Antinew.ORM.DAL\obj\Debug\netcoreapp3.1\Antinew.ORM.DAL.AssemblyInfoInputs.cache
+C:\Antinew\Architect\Antinew.ORM.DAL\obj\Debug\netcoreapp3.1\Antinew.ORM.DAL.AssemblyInfo.cs
+C:\Antinew\Architect\Antinew.ORM.DAL\obj\Debug\netcoreapp3.1\Antinew.ORM.DAL.csproj.CoreCompileInputs.cache
+C:\Antinew\Architect\Antinew.ORM.DAL\obj\Debug\netcoreapp3.1\Antinew.ORM.DAL.csproj.CopyComplete
+C:\Antinew\Architect\Antinew.ORM.DAL\obj\Debug\netcoreapp3.1\Antinew.ORM.DAL.dll
+C:\Antinew\Architect\Antinew.ORM.DAL\obj\Debug\netcoreapp3.1\Antinew.ORM.DAL.pdb
+C:\Antinew\Architect\Antinew.ORM.DAL\bin\Debug\netcoreapp3.1\Antinew.ORM.Model.dll
+C:\Antinew\Architect\Antinew.ORM.DAL\bin\Debug\netcoreapp3.1\Antinew.ORM.Model.pdb

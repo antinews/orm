@@ -1,0 +1,8 @@
+C:\Antinew\Architect\Antinew.ORM.Entites\bin\Debug\netcoreapp3.1\Antinew.ORM.Entities.deps.json
+C:\Antinew\Architect\Antinew.ORM.Entites\bin\Debug\netcoreapp3.1\Antinew.ORM.Entities.dll
+C:\Antinew\Architect\Antinew.ORM.Entites\bin\Debug\netcoreapp3.1\Antinew.ORM.Entities.pdb
+C:\Antinew\Architect\Antinew.ORM.Entites\obj\Debug\netcoreapp3.1\Antinew.ORM.Entities.AssemblyInfoInputs.cache
+C:\Antinew\Architect\Antinew.ORM.Entites\obj\Debug\netcoreapp3.1\Antinew.ORM.Entities.AssemblyInfo.cs
+C:\Antinew\Architect\Antinew.ORM.Entites\obj\Debug\netcoreapp3.1\Antinew.ORM.Entities.csproj.CoreCompileInputs.cache
+C:\Antinew\Architect\Antinew.ORM.Entites\obj\Debug\netcoreapp3.1\Antinew.ORM.Entities.dll
+C:\Antinew\Architect\Antinew.ORM.Entites\obj\Debug\netcoreapp3.1\Antinew.ORM.Entities.pdb

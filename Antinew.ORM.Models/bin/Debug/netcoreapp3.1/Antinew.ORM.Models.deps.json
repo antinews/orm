@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Antinew.ORM.Models/1.0.0": {
+        "runtime": {
+          "Antinew.ORM.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Antinew.ORM.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
