@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ew/jpaf7bw1GuHlPVG8Q1z7hETWaCGVHEM55IlGTD1agjgKbTOca0CNtGEj7AlWtCJXL6YGZgCz4X4/AWkft7Q==",
+  "dgSpecHash": "QCBxn1rCG/WhhAWklXbnz47IWz4SouH1QUyGOvKSecXOcOIwU6yaioPTwxaJTlVfE+DBP6oGXMW8aOJPJJXZhw==",
   "success": true,
   "projectFilePath": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.Models\\Antinew.ORM.Model.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\23577\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
     "C:\\Users\\23577\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
     "C:\\Users\\23577\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\23577\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\23577\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
   ],
   "logs": []

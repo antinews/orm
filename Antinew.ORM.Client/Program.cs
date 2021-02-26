@@ -1,6 +1,7 @@
 ﻿using Antinew.ORM.DAL;
 using Antinew.ORM.Model.DbModel;
 using System;
+using System.Threading;
 
 namespace Antinew.ORM.Client
 {
@@ -12,8 +13,11 @@ namespace Antinew.ORM.Client
             {
                 Console.WriteLine("Star..");
                 SqlHelper sqlHelper = new SqlHelper();
-                DncIconModel icon = sqlHelper.Find<DncIconModel>(1);
-                sqlHelper.Insert<DncIconModel>(new DncIconModel { });
+                UserModel user = sqlHelper.Find<UserModel>(1);
+                user.ModifyTime = DateTime.Now;
+                user.UserAge = 210;
+                sqlHelper.Update<UserModel>(user);
+                
             }
             catch (Exception ex)
             {

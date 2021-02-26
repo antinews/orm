@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SRF0FXmy3domcl4esgSxpOQgr4Y3ahzbPpTzr1OGgOvWk/yHD/0zSrBOV4aYUa9C66zuK31M4tik+jUxgGGr/Q==",
+  "dgSpecHash": "EswA34Y7kZET4yDb7vAR8GTsh3NOYIN7davz9BF5qR+qYZHkKDZ14fj/7f5vpntIWWRBMYEvWAp3ZdI4/3x5Kg==",
   "success": true,
   "projectFilePath": "C:\\Antinew\\Architect\\ORM\\Antinew.ORM.DAL\\Antinew.ORM.DAL.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\23577\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\23577\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\23577\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\23577\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\23577\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
     "C:\\Users\\23577\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\23577\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

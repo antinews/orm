@@ -7,3 +7,12 @@ C:\Antinew\Architect\Antinew.ORM.Framework\obj\Debug\netcoreapp3.1\Antinew.ORM.F
 C:\Antinew\Architect\Antinew.ORM.Framework\obj\Debug\netcoreapp3.1\Antinew.ORM.Framework.dll
 C:\Antinew\Architect\Antinew.ORM.Framework\obj\Debug\netcoreapp3.1\Antinew.ORM.Framework.pdb
 C:\Antinew\Architect\Antinew.ORM.Framework\obj\Debug\netcoreapp3.1\Antinew.ORM.Framework.csprojAssemblyReference.cache
+C:\Antinew\Architect\ORM\Antinew.ORM.Framework\bin\Debug\netcoreapp3.1\Antinew.ORM.Framework.deps.json
+C:\Antinew\Architect\ORM\Antinew.ORM.Framework\bin\Debug\netcoreapp3.1\Antinew.ORM.Framework.dll
+C:\Antinew\Architect\ORM\Antinew.ORM.Framework\bin\Debug\netcoreapp3.1\Antinew.ORM.Framework.pdb
+C:\Antinew\Architect\ORM\Antinew.ORM.Framework\obj\Debug\netcoreapp3.1\Antinew.ORM.Framework.csprojAssemblyReference.cache
+C:\Antinew\Architect\ORM\Antinew.ORM.Framework\obj\Debug\netcoreapp3.1\Antinew.ORM.Framework.AssemblyInfoInputs.cache
+C:\Antinew\Architect\ORM\Antinew.ORM.Framework\obj\Debug\netcoreapp3.1\Antinew.ORM.Framework.AssemblyInfo.cs
+C:\Antinew\Architect\ORM\Antinew.ORM.Framework\obj\Debug\netcoreapp3.1\Antinew.ORM.Framework.csproj.CoreCompileInputs.cache
+C:\Antinew\Architect\ORM\Antinew.ORM.Framework\obj\Debug\netcoreapp3.1\Antinew.ORM.Framework.dll
+C:\Antinew\Architect\ORM\Antinew.ORM.Framework\obj\Debug\netcoreapp3.1\Antinew.ORM.Framework.pdb

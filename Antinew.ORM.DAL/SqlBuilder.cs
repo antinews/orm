@@ -22,13 +22,13 @@ namespace Antinew.ORM.DAL
             var type = typeof(T);
             {
                 string sql_columns = string.Join(",", type.GetProperties().Select(p => $"[{p.GetMappingName()}]"));
-                _findSql = $"SELECT {sql_columns} FROM [{type.GetMappingName()}] WHERE ID = ";
+                _findSql = $"SELECT {sql_columns} FROM [{type.GetMappingName()}] WHERE KeyID = ";
             }
             {
                 string sql_columns = string.Join(",", type.GetPropertiesWithoutPrimaryKey().Select(p => $"[{p.GetMappingName()}]"));
                 //不能直接拼装值--防Sql注入
                 string sql_values = string.Join(",", type.GetPropertiesWithoutPrimaryKey().Select(p => $"@{p.GetMappingName()}"));
-                _insertSql = $"INSERT INTO [{type.GetMappingName()}]({sql_columns}) VALUES({sql_values})";
+                _insertSql = $"INSERT INTO [{type.GetMappingName()}]({sql_columns}) VALUES({sql_values}) SELECT @@Identity";
             }
         }
 
